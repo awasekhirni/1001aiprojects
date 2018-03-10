@@ -9,4 +9,6 @@ Copyright 2017-18 Syed Awase Khirni
 7. Natural Activity Interpretation and Recognition Algorithms (NAIRA) to predict activities and tag them based on geographical location using mobile devices. 
 8. A system that predicts stock market trends, of individual companies, by scraping all their historical records, performance data, market data, transaction logs
 9. Palantir for common man, to protect common man from overreaching government agencies. 
+10. A system that can help individuals learn about the legal implications before signing any contracts or agreements, and automatically device a contract that safegaurds individuals (keeping their interests first)
+11. 
 
