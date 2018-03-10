@@ -10,5 +10,7 @@ Copyright 2017-18 Syed Awase Khirni
 8. A system that predicts stock market trends, of individual companies, by scraping all their historical records, performance data, market data, transaction logs
 9. Palantir for common man, to protect common man from overreaching government agencies. 
 10. A system that can help individuals learn about the legal implications before signing any contracts or agreements, and automatically device a contract that safegaurds individuals (keeping their interests first)
-11. 
+11. A system that can teach kids learn music through self paced learning lession with incremental automated learning paths. 
+12. A system that can teach kids arabic/urdu calligraphy through self paced learning lession with incremental automated learning paths.
+
 
