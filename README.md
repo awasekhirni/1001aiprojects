@@ -13,6 +13,7 @@ Copyright 2017-18 Syed Awase Khirni
 11. A system that can teach kids learn music through self paced learning lession with incremental automated learning paths. 
 12. A system that can teach kids arabic/urdu calligraphy through self paced learning lession with incremental automated learning paths.
 13. A system that can teach kids arabic/urdu language through self paced learning sessions and sentences using word plays
-14.
+14. A system that tracks public expenses and usage of tax funds to alert the tax payers of fraud effectively
+15. A system that can track politicians sinister plans and alert news media and publish live feeds. 
 
 
