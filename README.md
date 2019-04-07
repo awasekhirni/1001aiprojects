@@ -12,5 +12,7 @@ Copyright 2017-18 Syed Awase Khirni
 10. A system that can help individuals learn about the legal implications before signing any contracts or agreements, and automatically device a contract that safegaurds individuals (keeping their interests first)
 11. A system that can teach kids learn music through self paced learning lession with incremental automated learning paths. 
 12. A system that can teach kids arabic/urdu calligraphy through self paced learning lession with incremental automated learning paths.
+13. A system that can teach kids arabic/urdu language through self paced learning sessions and sentences using word plays
+14.
 
 
